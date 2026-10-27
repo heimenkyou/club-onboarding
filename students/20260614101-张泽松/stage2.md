@@ -1,20 +1,6 @@
-\# Stage2 Git任务
-
-\- 操作系统：Windows
-
-\- Git用户名：zhangzesong01
-
-\- Git绑定邮箱：372989930@qq.com
-
-\- 操作记录：
-
-1\. 下载并安装 Git for Windows
-
-2\. 打开 Git CMD，执行全局配置命令：
-
-```bash
-
-git config --global user.name "zhangzesong01"
-
-git config --global user.email "372989930@qq.com"
-
+姓名：张泽松
+学号：20260614101
+专业班级：软件工程B261
+git --version：git version 2.56.0.windows.2
+git config user.name：张泽松
+git config user.email：372989930@qq.com
